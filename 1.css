@@ -1,0 +1,33 @@
+#p1{
+    width: 400px;
+    height: 400px;
+    background:gray;
+    margin: auto;
+    position: relative
+}
+.c{ 
+    width: 100px;
+    height: 100px;
+    position: absolute;
+
+}
+.c1{
+    background: hotpink;
+    top: 0px;
+    right: 0px;
+}
+.c2{
+    background: lavender;
+    top: 0px;
+    left: 0px;
+}
+.c3{
+    background: lawngreen;
+    bottom: 0px;
+    right: 0px;
+}
+.c4{
+    background: yellow;
+    bottom: 0px;
+    left: 0px;
+}
